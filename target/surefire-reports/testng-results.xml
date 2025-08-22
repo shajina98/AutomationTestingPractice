@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-22T12:05:04 IST" name="Suite" finished-at="2025-08-22T12:05:11 IST" duration-ms="7524">
+    <groups>
+    </groups>
+    <test started-at="2025-08-22T12:05:04 IST" name="Test" finished-at="2025-08-22T12:05:11 IST" duration-ms="7524">
+      <class name="Scripts.PraticeAutomationScript">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:Scripts.PraticeAutomationScript@59662a0b]" started-at="2025-08-22T12:05:04 IST" name="browserLaunch" finished-at="2025-08-22T12:05:11 IST" duration-ms="7208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Scripts.PraticeAutomationScript@59662a0b]" started-at="2025-08-22T12:05:11 IST" name="setUp" finished-at="2025-08-22T12:05:11 IST" depends-on-methods="Base.PraticeAutomation.browserLaunch" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="launch()[pri:0, instance:Scripts.PraticeAutomationScript@59662a0b]" started-at="2025-08-22T12:05:11 IST" name="launch" finished-at="2025-08-22T12:05:11 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- Scripts.PraticeAutomationScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
